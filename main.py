@@ -16,7 +16,7 @@ app.add_middleware(
 
 
 # Word bank with different difficulty levels
-word_bank = {
+words_data = {
 
 
 "Level 1": [
